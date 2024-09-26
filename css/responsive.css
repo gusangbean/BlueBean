@@ -1,0 +1,896 @@
+@media screen and (max-width:1799px) {
+    main .main1 .usedall .usedwrap .usedboxsm {
+        width: 40rem;
+    }
+}
+
+@media screen and (max-width:1706px) {
+    main .main3 .ears {
+        width: 40rem;
+        padding: 15rem;
+    }
+
+    main .main3 .ear1 {
+        bottom: 17rem;
+    }
+
+    main .main3 .ear2 {
+        bottom: 17rem;
+    }
+
+    main .main3 .contact {
+        padding: 5rem 10rem;
+    }
+
+    main .popup iframe {
+        margin: 6rem auto;
+    }
+
+    main .popup .btn {
+        right: 6rem;
+    }
+
+
+}
+
+@media screen and (max-width:1660px) {
+    main .popup .btn {
+        right: 12rem;
+        top: 1rem;
+    }
+}
+
+@media screen and (max-width:1599px) {
+    main .popup .btn {
+        right: 10rem;
+        top: 1rem;
+    }
+}
+
+
+@media screen and (max-width:1440px) {
+    main .main1 .mainall .bubble {
+        padding: 3rem;
+    }
+
+    main .main1 .mainall .bubble:nth-child(2) {
+        width: 2rem;
+        padding: 2rem;
+        top: 15rem;
+        left: 10rem;
+    }
+
+    main .main1 .mainall .bubble:nth-child(3) {
+        bottom: 10rem;
+    }
+
+    main .main1 .mainall .bubble:nth-child(4) {
+        width: 2rem;
+        padding: 2rem;
+        right: 8rem;
+    }
+
+    main .main1 .mainall .bubble:nth-child(5) {
+        bottom: 10rem;
+    }
+
+    main .main1 .introwrap .bean {
+        margin-top: 4rem;
+        margin-left: 2rem;
+    }
+
+    main .main1 .usedall .usedbox1 {
+        width: 60rem;
+    }
+
+    main .popup .btn {
+        right: 5rem;
+        top: 1rem;
+    }
+
+}
+
+@media screen and (max-width:1408px) {
+    html {
+        font-size: .9rem;
+    }
+
+    main .popup iframe {
+        width: 854px;
+        height: 480px;
+        margin: 13rem auto;
+    }
+
+    main .popup .btn {
+        top: 7rem;
+        right: 19rem;
+    }
+}
+
+@media screen and (max-width:1282px) {
+    main .main1 .introwrap .bean {
+        width: 28%;
+        margin-left: 2rem;
+    }
+
+}
+
+@media screen and (max-width:1267px) {
+    html {
+        font-size: 1rem;
+    }
+
+    main .main1 .introwrap .introbox .footbox {
+        width: 13rem;
+        padding: 4rem 0 3rem 0;
+    }
+
+    main .main1 .introwrap .introbox .footbox p {
+        font-size: 1.8rem;
+    }
+
+    main .main1 .introwrap .introbox .pbox p {
+        font-size: 2rem;
+    }
+
+    main .main1 .introwrap .introbox .footbox .foot1 {
+        top: -40%;
+        left: 30%;
+    }
+
+    main .main1 .introwrap .introbox .pbox p .blue {
+        font-size: 3.5rem;
+    }
+
+    main .main1 .introwrap .introbox .pbox p .sky {
+        font-size: 3.5rem;
+    }
+
+    main .main1 .introwrap .introbox .pbox p:nth-child(5),
+    main .main1 .introwrap .introbox .pbox p:nth-child(6) {
+        font-size: 1.5rem;
+    }
+
+    main .main1 .introwrap .introbox .pbox p:nth-child(5) span {
+        font-size: 3rem;
+    }
+
+    main .main1 .usedall .usedbox1 {
+        width: 50rem;
+    }
+
+    main .main1 .usedall .usedbox1 .usedlogo {
+        width: 9rem;
+    }
+
+    main .main1 .usedall .usedbox1 .usedlogo p {
+        font-size: 1.5rem;
+    }
+
+    main .main1 .usedall .usedwrap .usedboxsm .usedlogo {
+        width: 7rem;
+    }
+
+    main .main1 .usedall .usedwrap .usedboxsm .usedlogo img {
+        margin-left: .7rem;
+    }
+
+    main .main1 .usedall .usedwrap .usedboxsm .usedlogo p {
+        font-size: 1.2rem;
+    }
+
+
+    main .main2 .portfolio1 .portbtn,
+    main .main2 .portfolio2 .portbtn,
+    main .main2 .portfolio3 .portbtn {
+        width: 50rem;
+        margin-top: 2rem;
+    }
+
+    main .main2 .Pbox {
+        left: 15rem;
+        width: 20rem;
+    }
+
+    main .main2 .Pbox p {
+        font-size: 2rem;
+    }
+
+    main .main3 .contact .big {
+        margin-top: 5rem;
+    }
+
+    main .main3 .contact .footerwrap .callbox {
+        margin: 0 auto;
+    }
+
+    main .main3 .contact .footerwrap .callbox p {
+        text-align: center;
+    }
+
+    main .main3 .contact .footerwrap .callbox p:nth-child(1) {
+        font-size: 2.5rem;
+    }
+
+    main .main3 .contact .footerwrap .callbox p:nth-child(3),
+    main .main3 .contact .footerwrap .callbox p:nth-child(5) {
+        font-size: 2.5rem;
+        margin: 0 auto;
+    }
+
+    main .main3 .contact .footerwrap .snsbox {
+        width: 35rem;
+        margin: 0 auto;
+    }
+
+    main .main3 .contact .footerwrap .snsbox a {
+        width: 8rem;
+    }
+
+    main .popup .btn {
+        font-size: 1.5rem;
+        top: 8rem;
+        right: 13rem;
+    }
+
+    main .main3 .ears {
+        width: 40rem;
+    }
+
+    main .main3 .ear1 {
+        bottom: 45rem;
+    }
+
+    main .main3 .ear2 {
+        bottom: 45rem;
+    }
+
+}
+
+@media screen and (max-width:1089px) {
+    .all header .inner {
+        width: 80%;
+    }
+
+    .all header .inner h1 {
+        font-size: 1.8rem;
+    }
+
+    .all header .inner nav ul li a {
+        padding: 0 1rem;
+    }
+
+    main .main1 .mainall .bubble {
+        opacity: .7;
+    }
+
+    main .main1 .mainall .bubble:nth-child(2) {
+        left: 2rem;
+    }
+
+    main .main1 .mainall .bubble:nth-child(3) {
+        right: 1rem;
+    }
+
+    main .main1 .mainall .bubble:nth-child(4) {
+        bottom: 6rem;
+    }
+
+    main .main1 .mainall .bubble:nth-child(6) {
+        right: 2rem;
+        top: 5rem;
+    }
+
+    main .main1 .mainall .videobox {
+        width: 80%;
+        padding: 1.5rem 1.5rem;
+    }
+
+    main .main1 .introwrap .introbox .footbox {
+        padding: 5rem 0 3.5rem 0;
+    }
+
+    main .main1 .introwrap .introbox {
+        width: 90%;
+    }
+
+    main .main1 .introwrap .introbox .pbox {
+        margin-left: 47%;
+        margin-bottom: 2rem;
+    }
+
+    main .main1 .introwrap .bean {
+        width: 45%;
+        margin-left: 18rem;
+    }
+
+    main .popup .btn {
+        right: 7rem;
+    }
+
+    main .main3 .ear1 {
+        bottom: 47rem;
+    }
+
+    main .main3 .ear2 {
+        bottom: 47rem;
+    }
+
+}
+
+@media screen and (max-width:1024px) {
+    main .popup .btn {
+        right: 5rem;
+    }
+
+}
+
+@media screen and (max-width:898px) {
+    main .main1 .mainall .videobox {
+        width: 85%;
+        margin-top: 2rem;
+    }
+
+    main .main1 .introwrap .introbox .pbox {
+        margin-left: 40%;
+    }
+
+    main .main1 .introwrap .bean {
+        margin-left: 15rem;
+    }
+
+    main .main1 .usedall .usedbox1 {
+        width: 40rem;
+    }
+
+    main .main1 .usedall .usedbox1 .usedlogo {
+        width: 8rem;
+    }
+
+    main .main1 .usedall .usedbox1 .usedlogo p {
+        font-size: 1.5rem;
+    }
+
+    main .main1 .usedall .usedwrap .usedboxsm .usedlogo {
+        width: 6rem;
+    }
+
+    main .main1 .usedall .usedwrap .usedboxsm .usedlogo img {
+        margin-left: .6rem;
+    }
+
+    main .main1 .usedall .usedwrap .usedboxsm .usedlogo p {
+        font-size: 1.2rem;
+    }
+
+    main .main2 .portfolio1 .portbtn,
+    main .main2 .portfolio2 .portbtn,
+    main .main2 .portfolio3 .portbtn {
+        width: 38rem;
+        margin-top: 2rem;
+    }
+
+    main .main2 .Pbox {
+        left: 13rem;
+        width: 12rem;
+    }
+
+    main .main2 .Pbox p {
+        font-size: 1.5rem;
+    }
+
+    main .popup iframe {
+        width: 640px;
+        height: 360px;
+        margin: 15rem auto;
+
+    }
+
+    main .popup .btn {
+        font-size: 1.5rem;
+        top: 10rem;
+        right: 8rem;
+    }
+
+    main .main3 .ears {
+        width: 20rem;
+        padding: 7rem;
+    }
+
+    main .main3 .ear1 {
+        bottom: 60rem;
+    }
+
+    main .main3 .ear2 {
+        bottom: 60rem;
+    }
+
+    main .main3 .contact {
+        padding: 5rem 0;
+    }
+
+    main .main3 .contact .mini {
+        font-size: 1.7rem;
+    }
+
+    main .main3 .contact .footerwrap .callbox p:nth-child(1) {
+        font-size: 2rem;
+    }
+
+    main .main3 .contact .footerwrap .callbox p:nth-child(3),
+    main .main3 .contact .footerwrap .callbox p:nth-child(5) {
+        font-size: 2rem;
+    }
+
+    main .main3 .contact .footerwrap .snsbox {
+        width: 30rem;
+        margin: 0 auto;
+    }
+
+    main .main3 .contact .footerwrap .snsbox a {
+        width: 7rem;
+    }
+}
+
+@media screen and (max-width:768px) {
+    
+    main .main1 .mainall .videobox {
+        margin-top: 4rem;
+    }
+
+    main .main1 .introwrap .bean {
+        width: 50%;
+        margin-left: 12rem;
+    }
+
+    main .popup .btn {
+        right: 4rem;
+    }
+
+    main .main3 .contact .mini {
+        font-size: 1.5rem;
+    }
+}
+
+@media screen and (max-width:704px) {
+    main .main1 .introwrap .introbox .pbox p {
+        font-size: 1.8rem;
+    }
+
+    main .main1 .introwrap .introbox .pbox p .blue {
+        font-size: 3rem;
+    }
+
+    main .main1 .introwrap .introbox .pbox p .sky {
+        font-size: 3rem;
+    }
+
+    main .main1 .introwrap .introbox .pbox p:nth-child(5),
+    main .main1 .introwrap .introbox .pbox p:nth-child(6) {
+        font-size: 1.5rem;
+    }
+
+    main .main1 .introwrap .introbox .pbox p:nth-child(5) span {
+        font-size: 2.5rem;
+    }
+}
+
+@media screen and (max-width:673px) {
+    .all header .inner {
+        width: 95%;
+        padding: 1rem;
+    }
+
+    main .main1 .introwrap .bean {
+        width: 60%;
+        margin-left: 9rem;
+    }
+
+    main .main3 .contact .big {
+        font-size: 3rem;
+    }
+
+    main .main1 .usedall h2 {
+        font-size: 2.5rem;
+    }
+
+    main .main1 .usedall .usedbox1 {
+        width: 23rem;
+    }
+
+    main .main1 .usedall .usedbox1 .usedlogo {
+        width: 6rem;
+    }
+
+    main .main1 .usedall .usedbox1 .usedlogo p {
+        font-size: 1.2rem;
+    }
+
+    main .main1 .usedall .usedwrap .usedboxsm {
+        width: 20rem;
+    }
+
+    main .main1 .usedall .usedwrap .usedboxsm .usedlogo {
+        width: 5rem;
+    }
+
+    main .main1 .usedall .usedwrap .usedboxsm .usedlogo p {
+        font-size: 1rem;
+    }
+
+    main .main2 h3 {
+        font-size: 2.5rem;
+    }
+
+    main .main2 .portfolio1 .portbtn,
+    main .main2 .portfolio2 .portbtn,
+    main .main2 .portfolio3 .portbtn {
+        width: 20rem;
+    }
+
+    main .main2 .Pbox {
+        width: 10rem;
+        left: 7rem;
+    }
+
+    main .main2 .Pbox p {
+        font-size: 1.2rem;
+    }
+
+    main .popup iframe {
+        width: 426px;
+        height: 240px;
+        margin: 18rem auto;
+    }
+
+    main .popup .btn {
+        font-size: 1.5rem;
+        padding: .8rem;
+        right: 8rem;
+        top: 13rem;
+    }
+
+    main .main3 .ears {
+        width: 15rem;
+        padding: 5rem
+    }
+
+    main .main3 .ear1 {
+        bottom: 60rem;
+    }
+
+    main .main3 .ear2 {
+        bottom: 60rem;
+    }
+
+    main .main3 .contact .big {
+        font-size: 2.5rem;
+    }
+
+    main .main3 .contact .mini {
+        font-size: 1.1rem;
+    }
+
+    main .main3 .contact .footerwrap .callbox {
+        width: 20rem;
+    }
+
+    main .main3 .contact .footerwrap .callbox p:nth-child(1) {
+        font-size: 1.5rem;
+    }
+
+    main .main3 .contact .footerwrap .callbox p:nth-child(3),
+    main .main3 .contact .footerwrap .callbox p:nth-child(5) {
+        font-size: 1.5rem;
+    }
+
+    main .main3 .contact .footerwrap .snsbox {
+        width: 20rem;
+    }
+
+    main .main3 .contact .footerwrap .snsbox a {
+        width: 5rem;
+    }
+
+    main .main3 .contact .footerwrap .snsbox a p {
+        font-size: 1.3rem;
+    }
+
+    main .main1 .introwrap .bean {
+        width: 60%;
+        margin-left: 9rem;
+    }
+}
+
+@media screen and (max-width:595px) {
+    .all header .inner h1 {
+        font-size: 1.5rem;
+        padding: 0.3rem 0;
+    }
+
+    .all header .inner nav ul li a {
+        font-size: 1.2rem;
+        padding: 0 .2rem 0;
+    }
+
+    main .main1 .mainall .videobox {
+        margin-top: 7rem;
+    }
+
+    main .main1 .introwrap .introbox {
+        width: 98%;
+    }
+
+    main .main1 .introwrap .introbox .footbox {
+        width: 10rem;
+        padding: 3.5rem 0 3rem 0;
+    }
+
+    main .main1 .introwrap .introbox .footbox .foot {
+        width: 2%;
+        padding: 1.6rem;
+    }
+
+    main .main1 .introwrap .introbox .footbox p {
+        font-size: 1.5rem;
+    }
+
+    main .main1 .introwrap .introbox .pbox {
+        width: 60%;
+        margin-left: 30%;
+    }
+
+    main .main1 .introwrap .introbox .pbox p:nth-child(5) span {
+        font-size: 2rem;
+    }
+
+    main .main1 .introwrap .bean {
+        margin-left: 7rem;
+    }
+
+    main .popup .btn {
+        right: 5rem;
+    }
+
+    main .main3 .contact {
+        padding: 5rem 0;
+    }
+}
+
+@media screen and (max-width:425px) {
+
+    .all header .inner {
+        width: 100%;
+    }
+
+    main .main1 .mainall .videobox {
+        width: 95%;
+        padding: 1rem;
+        margin-top: 8rem;
+    }
+
+
+    main .main1 .introwrap .bean {
+        margin-left: 4rem;
+        width: 70%;
+    }
+
+    main .main1 .introwrap .introbox .pbox {
+        margin-left: 15%;
+        width: 60%;
+    }
+
+    main .main2 .portfolio1 .portbtn,
+    main .main2 .portfolio2 .portbtn,
+    main .main2 .portfolio3 .portbtn {
+        width: 10rem;
+    }
+
+    main .popup iframe {
+        width: 400px;
+        height: 300px;
+    }
+
+    main .popup .btn {
+        top: 38rem;
+        right: 1.8rem;
+        padding: .8rem 10rem;
+    }
+
+    main .main3 .contact {
+        margin-top: 5rem;
+        padding: 5rem 0;
+        padding-bottom: 0;
+    }
+
+    main .main3 .ears {
+        width: 10rem;
+        padding: 5rem 6rem;
+    }
+
+    main .main3 .ear1 {
+        bottom: 40rem;
+    }
+
+    main .main3 .ear2 {
+        bottom: 40rem;
+    }
+
+    main .main3 .contact .footerwrap .callbox {
+        padding: 5rem 0;
+    }
+
+    main .main3 .contact .footerwrap .snsbox {
+        padding: 5rem 0;
+    }
+
+}
+
+@media screen and (max-width:375px) {
+
+    .all header .inner h1 {
+        font-size: 1rem;
+        padding: .3rem 0;
+        margin-top: .3rem;
+    }
+
+    main .main1 .mainall .bubble:nth-child(5) {
+        left: 3rem;
+    }
+
+    main .main1 .mainall .videobox {
+        margin-top: 12rem;
+    }
+
+    main .main1 .introwrap .introbox .pbox {
+        margin-left: 15%;
+        width: 80%;
+    }
+
+    main .main1 .usedall h2 {
+        font-size: 2rem;
+        text-shadow: 0 4px 0 rgb(20, 100, 148);
+    }
+
+    main .main1 .usedall .usedbox1 {
+        width: 20rem;
+    }
+
+    main .main1 .usedall .usedbox1 .usedlogo {
+        width: 6rem;
+    }
+
+    main .main1 .usedall .usedbox1 .usedlogo p {
+        font-size: 1.2rem;
+    }
+
+    main .main1 .usedall .usedwrap .usedboxsm {
+        width: 18rem;
+    }
+
+    main .main1 .usedall .usedwrap .usedboxsm .usedlogo {
+        width: 5rem;
+    }
+
+    main .main1 .usedall .usedwrap .usedboxsm .usedlogo p {
+        font-size: 1rem;
+    }
+
+
+    main .main2 h3 {
+        font-size: 2rem;
+        text-shadow: 0 4px 0 rgb(20, 100, 148);
+    }
+
+    main .main2 .portfolio1 .portbtn,
+    main .main2 .portfolio2 .portbtn,
+    main .main2 .portfolio3 .portbtn {
+        width: 8rem;
+        padding: 9rem;
+    }
+
+    main .main2 .Pbox {
+        top: 7.5rem;
+        left: 4rem;
+    }
+
+    main .popup iframe {
+        width: 300px;
+        height: 300px;
+    }
+
+    main .popup .btn {
+        top: 38rem;
+        right: 1.2rem;
+        padding: .8rem 9rem;
+    }
+
+    main .main3 .contact .big {
+        font-size: 2rem;
+        text-shadow: 0 4px 0 rgb(20, 100, 148);
+    }
+
+    main .main3 .contact .mini {
+        font-size: 0.8rem;
+    }
+
+    main .main3 .contact .footerwrap .snsbox {
+        width: 17rem;
+    }
+
+}
+
+@media screen and (max-width:320px) {
+    .all header .inner nav ul li a {
+        font-size: 1rem;
+    }
+
+    main .main1 .mainall .bubble:nth-child(4) {
+        right: 15rem;
+        bottom: 13rem;
+    }
+
+    main .main1 .mainall .bubble:nth-child(5) {
+        bottom: 4rem;
+    }
+
+    main .main1 .mainall .bubble:nth-child(6) {
+        right: 1rem;
+        top: 10rem;
+    }
+
+    main .main1 .introwrap .introbox .pbox {
+        margin-left: 10%;
+        width: 80%;
+    }
+
+    main .main1 .introwrap .bean {
+        margin-left: 3rem;
+    }
+
+    main .main1 .usedall .usedbox1 {
+        width: 15rem;
+    }
+
+    main .main1 .usedall .usedbox1 .usedlogo {
+        width: 5rem;
+    }
+
+    main .main1 .usedall .usedbox1 .usedlogo p {
+        font-size: 1rem;
+    }
+
+    main .main1 .usedall .usedwrap .usedboxsm {
+        width: 15rem;
+    }
+
+    main .main1 .usedall .usedwrap .usedboxsm .usedlogo {
+        width: 4rem;
+    }
+
+    main .main1 .usedall .usedwrap .usedboxsm .usedlogo p {
+        font-size: .8rem;
+    }
+
+    main .popup .btn {
+        top: 38rem;
+        right: .5rem;
+        padding: .8rem 8rem;
+    }
+
+    main .main3 .ears {
+        width: 10rem;
+        padding: 4rem 4rem;
+    }
+
+    main .main3 .ear1 {
+        bottom: 42rem;
+    }
+
+    main .main3 .ear2 {
+        bottom: 42rem;
+    }
+
+
+
+}
