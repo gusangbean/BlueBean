@@ -34,7 +34,7 @@ a {
 .all {
     width: 100%;
     background-color: rgb(193, 237, 253);
-    overflow: hidden;
+    overflow-x: hidden;
 }
 
 .usedbg {
