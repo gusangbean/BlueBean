@@ -34,6 +34,33 @@ a {
 .all {
     width: 100%;
     background-color: rgb(193, 237, 253);
+    overflow: hidden;
+}
+
+.usedbg {
+    position: absolute;
+    width: 100%;
+    padding: 40rem 0;
+    background: url('../image/Mainback1.png') no-repeat center/contain;
+}
+
+.usedbg2 {
+    position: absolute;
+    width: 100%;
+    padding: 40rem 0;
+    background: url('../image/Mainback2.png') no-repeat center/contain;
+}
+.usedbg3 {
+    position: absolute;
+    width: 100%;
+    padding: 60rem 0;
+    background: url('../image/Pofoback1.png') no-repeat center/contain;
+}
+.usedbg4 {
+    position: absolute;
+    width: 100%;
+    padding: 60rem 0;
+    background: url('../image/Pofoback2.png') no-repeat center/contain;
 }
 
 
