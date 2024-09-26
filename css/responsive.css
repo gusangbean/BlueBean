@@ -689,10 +689,11 @@
     main .popup iframe {
         width: 400px;
         height: 300px;
+        margin: 12rem auto;
     }
 
     main .popup .btn {
-        top: 38rem;
+        top: 32rem;
         right: 1.8rem;
         padding: .8rem 10rem;
     }
@@ -800,7 +801,7 @@
     }
 
     main .popup .btn {
-        top: 38rem;
+        top: 32rem;
         right: 1.2rem;
         padding: .8rem 9rem;
     }
@@ -873,7 +874,7 @@
     }
 
     main .popup .btn {
-        top: 38rem;
+        top: 32rem;
         right: .5rem;
         padding: .8rem 8rem;
     }
